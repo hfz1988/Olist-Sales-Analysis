@@ -18,23 +18,27 @@ The analysis is based on the public Olist dataset and was originally developed a
 ![Monthly Sales Trend](images/slide_4_image_1.png)  
 Sales increase toward the end of the year, especially in **November**, likely influenced by seasonal events such as **Black Friday** or year-end promotions.
 
-#### 2. Review Score & Pareto Analysis of Product Sales
-![Review Score & Pareto](images/slide_5_image_1.png)  
-Most reviews have a score of **5**. Pareto chart shows the majority of revenue comes from a small number of product categories, indicating a focus on these can boost efficiency.
+#### 2. Review Score
+![Review Score](images/slide_5_image_1.png)  
+Most reviews have a score of **5**. Low ratings (1–2) are relatively rare but should be addressed to maintain customer satisfaction.
 
-#### 3. Top Product Categories
+#### 3. Pareto Analysis of Product Sales
+![Pareto Chart](images/slide_5_image_2.png)  
+Pareto chart shows that the majority of revenue comes from a small number of product categories — focusing on these top categories can improve sales efficiency.
+
+#### 4. Top Product Categories
 ![Top Product Categories](images/slide_6_image_1.png)  
 Top categories: **bed_bath_table**, **health_beauty**, **sports_leisure** — recommended to focus marketing on these.
 
-#### 4. Payment Method Distribution
+#### 5. Payment Method Distribution
 ![Payment Method Distribution](images/slide_7_image_1.png)  
 Majority of customers use **credit card**. Payments via boleto and voucher are minimal.
 
-#### 5. Sales by Day of the Week
+#### 6. Sales by Day of the Week
 ![Sales by Day](images/slide_8_image_1.png)  
 **Monday** and **Tuesday** have higher transaction volumes — potential for targeted campaigns.
 
-#### 6. RFM Segmentation - Clustering
+#### 7. RFM Segmentation - Clustering
 ![RFM Clustering](images/slide_9_image_1.png)  
 Customers segmented into 4 clusters:
 - Green: Loyal & high-value customers
@@ -42,11 +46,11 @@ Customers segmented into 4 clusters:
 - Red: Passive customers needing reactivation
 - Blue: Customers close to churn
 
-#### 7. Cohort Retention Analysis
+#### 8. Cohort Retention Analysis
 ![Cohort Retention](images/slide_10_image_1.png)  
 Customer retention drops sharply after the first month — suggests implementing post-purchase engagement or loyalty programs.
 
-#### 8. Elbow Method
+#### 9. Elbow Method
 ![Elbow Method](images/slide_13_image_1.png)  
 Optimal number of clusters: **4** — beyond this point, inertia reduction is insignificant.
 
@@ -84,23 +88,27 @@ Analisis ini menggunakan dataset publik Olist dan awalnya dibuat untuk **Sertifi
 ![Tren Penjualan Bulanan](images/slide_4_image_1.png)  
 Penjualan meningkat menjelang akhir tahun, terutama di **November**, kemungkinan dipengaruhi event musiman seperti **Black Friday** atau promo akhir tahun.
 
-#### 2. Review Score & Pareto Penjualan Produk
-![Review Score & Pareto](images/slide_5_image_1.png)  
-Mayoritas ulasan bernilai **5**. Pareto chart menunjukkan sebagian besar pendapatan berasal dari sedikit kategori produk — fokus pada kategori ini dapat meningkatkan efisiensi.
+#### 2. Skor Ulasan
+![Skor Ulasan](images/slide_5_image_1.png)  
+Mayoritas ulasan memiliki skor **5**. Rating rendah (1–2) relatif jarang tetapi perlu ditindaklanjuti untuk menjaga kepuasan pelanggan.
 
-#### 3. Kategori Produk Teratas
+#### 3. Analisis Pareto Penjualan Produk
+![Pareto Chart](images/slide_5_image_2.png)  
+Pareto chart menunjukkan sebagian besar pendapatan berasal dari sedikit kategori produk — fokus pada kategori utama dapat meningkatkan efisiensi penjualan.
+
+#### 4. Kategori Produk Teratas
 ![Kategori Produk Teratas](images/slide_6_image_1.png)  
 Kategori teratas: **bed_bath_table**, **health_beauty**, **sports_leisure** — disarankan fokus pemasaran ke kategori ini.
 
-#### 4. Distribusi Metode Pembayaran
+#### 5. Distribusi Metode Pembayaran
 ![Distribusi Metode Pembayaran](images/slide_7_image_1.png)  
 Mayoritas pelanggan menggunakan **kartu kredit**. Pembayaran via boleto dan voucher relatif kecil.
 
-#### 5. Penjualan Berdasarkan Hari
+#### 6. Penjualan Berdasarkan Hari
 ![Penjualan Berdasarkan Hari](images/slide_8_image_1.png)  
 **Senin** dan **Selasa** memiliki volume transaksi lebih tinggi — berpotensi untuk kampanye promosi terarah.
 
-#### 6. Segmentasi RFM – Clustering
+#### 7. Segmentasi RFM – Clustering
 ![Segmentasi RFM](images/slide_9_image_1.png)  
 Pelanggan dibagi menjadi 4 cluster:
 - Hijau: Pelanggan loyal & bernilai tinggi
@@ -108,11 +116,11 @@ Pelanggan dibagi menjadi 4 cluster:
 - Merah: Pelanggan pasif yang perlu diaktivasi kembali
 - Biru: Pelanggan hampir churn
 
-#### 7. Analisis Retensi Cohort
+#### 8. Analisis Retensi Cohort
 ![Cohort Retention](images/slide_10_image_1.png)  
 Retensi pelanggan menurun tajam setelah bulan pertama — disarankan adanya edukasi pasca-pembelian atau program loyalitas.
 
-#### 8. Elbow Method
+#### 9. Elbow Method
 ![Elbow Method](images/slide_13_image_1.png)  
 Jumlah cluster optimal: **4** — penurunan inertia setelah ini tidak signifikan.
 
